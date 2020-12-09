@@ -1,0 +1,5 @@
+$baseColor:pink;
+$baseRgb:rgba($baseColor,0.5);
+.div{
+    border: 10px solid $baseRgb;
+}
